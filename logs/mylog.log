@@ -1,0 +1,244 @@
+[INFO ] 2026-05-18 17:07:04.819 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 17:07:04.901 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 17:08:05.502 [main] StepDef - URL open
+[INFO ] 2026-05-18 17:08:06.802 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 17:08:06.809 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 17:08:09.251 [main] StepDef - URL open
+[INFO ] 2026-05-18 17:11:41.297 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 17:11:41.380 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 17:11:47.412 [main] StepDef - URL open
+[INFO ] 2026-05-18 17:11:48.352 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 17:11:50.587 [main] StepDef - click on login
+[INFO ] 2026-05-18 17:11:50.715 [main] StepDef - home is opened
+[INFO ] 2026-05-18 17:12:00.090 [main] StepDef - customer information enter
+[INFO ] 2026-05-18 17:12:00.672 [main] StepDef - close the browser
+[INFO ] 2026-05-18 17:12:01.894 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 17:12:01.897 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 17:12:09.953 [main] StepDef - URL open
+[INFO ] 2026-05-18 17:59:23.485 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 17:59:23.576 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 17:59:58.967 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 17:59:58.982 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:00:03.133 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:00:35.701 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:00:35.766 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:01:31.580 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:01:36.634 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:01:36.641 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:01:43.075 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:01:44.458 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:01:46.606 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:01:51.613 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:02:00.515 [main] StepDef - search employee
+[INFO ] 2026-05-18 18:02:01.117 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:03:00.386 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:03:00.448 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:03:05.400 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:03:06.259 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:03:08.493 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:03:08.550 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:03:18.663 [main] StepDef - customer information enter
+[INFO ] 2026-05-18 18:03:19.239 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:03:20.419 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:03:20.428 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:03:26.637 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:03:27.480 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:03:29.690 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:03:29.732 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:03:38.149 [main] StepDef - search employee
+[INFO ] 2026-05-18 18:03:38.876 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:09:35.872 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:09:35.949 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:09:41.718 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:09:42.488 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:09:44.682 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:09:44.737 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:09:56.522 [main] StepDef - customer information enter
+[INFO ] 2026-05-18 18:09:57.052 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:09:58.260 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:09:58.264 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:10:02.606 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:10:03.384 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:10:05.595 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:10:05.619 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:10:13.445 [main] StepDef - search employee
+[INFO ] 2026-05-18 18:10:13.883 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:10:15.103 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:10:15.106 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:10:18.740 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:10:19.583 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:10:21.790 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:10:21.810 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:10:24.842 [main] StepDef - logout from page
+[INFO ] 2026-05-18 18:10:25.163 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:10:25.177 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:17:15.221 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:17:15.299 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:17:19.541 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:17:20.322 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:17:22.512 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:17:22.532 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:17:23.644 [main] StepDef - logout from page
+[INFO ] 2026-05-18 18:17:23.905 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:17:25.021 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:17:25.026 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:17:29.527 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:17:30.394 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:17:32.603 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:17:32.864 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:17:34.244 [main] StepDef - logout from page
+[INFO ] 2026-05-18 18:17:34.511 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:21:43.334 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:21:43.397 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:21:48.512 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:21:50.026 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:21:52.225 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:21:52.251 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:22:00.985 [main] StepDef - customer information enter
+[INFO ] 2026-05-18 18:22:01.483 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:22:02.877 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:22:02.881 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:22:07.890 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:22:10.185 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:22:12.372 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:22:13.958 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:22:23.989 [main] StepDef - search employee
+[INFO ] 2026-05-18 18:22:24.591 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:22:25.758 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:22:25.761 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:22:29.258 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:22:30.032 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:22:32.210 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:22:32.221 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:22:33.676 [main] StepDef - logout from page
+[INFO ] 2026-05-18 18:22:33.969 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:22:35.069 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:22:35.072 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:22:38.363 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:22:39.119 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:22:42.781 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:22:42.812 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:22:43.985 [main] StepDef - logout from page
+[INFO ] 2026-05-18 18:22:44.271 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:36:39.500 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:36:39.528 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:36:43.419 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:36:44.094 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:36:46.217 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:36:46.227 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:36:54.124 [main] StepDef - customer information enter
+[INFO ] 2026-05-18 18:36:54.520 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:36:55.275 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:36:55.277 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:36:58.147 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:36:58.739 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:37:00.841 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:37:00.851 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:37:08.196 [main] StepDef - search employee
+[INFO ] 2026-05-18 18:37:08.444 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:42:20.116 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:42:20.154 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:42:23.189 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:42:23.804 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:42:25.898 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:42:25.934 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:42:33.136 [main] StepDef - search employee
+[INFO ] 2026-05-18 18:42:33.439 [main] StepDef - close the browser
+[INFO ] 2026-05-18 18:42:34.297 [main] StepDef - setup 1 executed
+[INFO ] 2026-05-18 18:42:34.299 [main] StepDef - user launch browser 
+[INFO ] 2026-05-18 18:42:38.139 [main] StepDef - URL open
+[INFO ] 2026-05-18 18:42:38.819 [main] StepDef - enter email and password
+[INFO ] 2026-05-18 18:42:40.913 [main] StepDef - click on login
+[INFO ] 2026-05-18 18:42:40.925 [main] StepDef - home is opened
+[INFO ] 2026-05-18 18:42:42.098 [main] StepDef - logout from page
+[INFO ] 2026-05-18 18:42:42.260 [main] StepDef - close the browser
+[INFO ] 2026-07-28 15:36:58.829 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-28 15:36:58.864 [main] StepDef - user launch browser 
+[INFO ] 2026-07-28 15:37:04.616 [main] StepDef - URL open
+[INFO ] 2026-07-28 15:37:06.975 [main] StepDef - enter email and password
+[INFO ] 2026-07-28 15:37:09.080 [main] StepDef - click on login
+[INFO ] 2026-07-28 15:37:14.233 [main] StepDef - home is opened
+[INFO ] 2026-07-28 15:37:34.920 [main] StepDef - search employee
+[INFO ] 2026-07-28 15:37:35.212 [main] StepDef - close the browser
+[INFO ] 2026-07-28 15:37:36.230 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-28 15:37:36.232 [main] StepDef - user launch browser 
+[INFO ] 2026-07-28 15:37:39.861 [main] StepDef - URL open
+[INFO ] 2026-07-28 15:37:42.740 [main] StepDef - enter email and password
+[INFO ] 2026-07-28 15:37:44.860 [main] StepDef - click on login
+[INFO ] 2026-07-28 15:37:54.417 [main] StepDef - home is opened
+[INFO ] 2026-07-28 15:40:32.495 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-28 15:40:32.528 [main] StepDef - user launch browser 
+[INFO ] 2026-07-28 15:40:37.301 [main] StepDef - URL open
+[INFO ] 2026-07-28 15:40:41.352 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-28 15:40:41.353 [main] StepDef - user launch browser 
+[INFO ] 2026-07-28 15:40:44.981 [main] StepDef - URL open
+[INFO ] 2026-07-28 15:40:47.577 [main] StepDef - enter email and password
+[INFO ] 2026-07-28 15:40:49.680 [main] StepDef - click on login
+[INFO ] 2026-07-28 15:40:58.029 [main] StepDef - home is opened
+[INFO ] 2026-07-28 15:41:11.421 [main] StepDef - logout from page
+[INFO ] 2026-07-28 15:41:11.759 [main] StepDef - close the browser
+[INFO ] 2026-07-28 16:15:13.271 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-28 16:15:13.397 [main] StepDef - user launch browser 
+[INFO ] 2026-07-28 16:15:45.386 [main] StepDef - URL open
+[INFO ] 2026-07-28 16:15:47.239 [main] StepDef - enter email and password
+[INFO ] 2026-07-28 16:15:49.438 [main] StepDef - click on login
+[INFO ] 2026-07-28 16:16:01.245 [main] StepDef - home is opened
+[INFO ] 2026-07-28 16:16:06.293 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-28 16:16:06.295 [main] StepDef - user launch browser 
+[INFO ] 2026-07-28 16:59:00.621 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-28 16:59:00.716 [main] StepDef - user launch browser 
+[INFO ] 2026-07-28 16:59:09.643 [main] StepDef - URL open
+[INFO ] 2026-07-28 16:59:15.857 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-28 16:59:15.864 [main] StepDef - user launch browser 
+[INFO ] 2026-07-28 17:01:16.024 [main] StepDef - URL open
+[INFO ] 2026-07-28 17:01:19.582 [main] StepDef - enter email and password
+[INFO ] 2026-07-28 17:01:38.456 [main] StepDef - click on login
+[INFO ] 2026-07-28 17:01:38.513 [main] StepDef - home is opened
+[INFO ] 2026-07-28 17:01:49.380 [main] StepDef - logout from page
+[INFO ] 2026-07-28 17:01:49.941 [main] StepDef - close the browser
+[INFO ] 2026-07-28 17:04:21.466 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-28 17:04:21.545 [main] StepDef - user launch browser 
+[INFO ] 2026-07-28 17:04:48.526 [main] StepDef - URL open
+[INFO ] 2026-07-28 17:04:49.570 [main] StepDef - enter email and password
+[INFO ] 2026-07-28 17:04:51.783 [main] StepDef - click on login
+[INFO ] 2026-07-28 17:04:51.810 [main] StepDef - home is opened
+[INFO ] 2026-07-28 17:04:59.511 [main] StepDef - search employee
+[INFO ] 2026-07-28 17:05:00.167 [main] StepDef - close the browser
+[INFO ] 2026-07-28 17:05:01.495 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-28 17:05:01.497 [main] StepDef - user launch browser 
+[INFO ] 2026-07-28 17:07:41.340 [main] StepDef - URL open
+[INFO ] 2026-07-28 17:07:45.065 [main] StepDef - enter email and password
+[INFO ] 2026-07-28 17:08:03.187 [main] StepDef - click on login
+[INFO ] 2026-07-28 17:08:03.211 [main] StepDef - home is opened
+[INFO ] 2026-07-28 17:08:14.911 [main] StepDef - logout from page
+[INFO ] 2026-07-28 17:08:15.293 [main] StepDef - close the browser
+[INFO ] 2026-07-28 17:25:29.057 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-28 17:25:29.133 [main] StepDef - user launch browser 
+[INFO ] 2026-07-28 17:25:37.576 [main] StepDef - URL open
+[INFO ] 2026-07-28 17:25:48.707 [main] StepDef - enter email and password
+[INFO ] 2026-07-28 17:25:50.893 [main] StepDef - click on login
+[INFO ] 2026-07-28 17:26:00.219 [main] StepDef - home is opened
+[INFO ] 2026-07-28 17:26:04.754 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-28 17:26:04.759 [main] StepDef - user launch browser 
+[INFO ] 2026-07-28 17:26:55.413 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-28 17:26:55.499 [main] StepDef - user launch browser 
+[INFO ] 2026-07-28 17:28:23.553 [main] StepDef - URL open
+[INFO ] 2026-07-28 17:28:24.305 [main] StepDef - URL open
+[INFO ] 2026-07-28 17:28:29.277 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-28 17:28:29.289 [main] StepDef - user launch browser 
+[INFO ] 2026-07-29 10:34:30.236 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-29 10:34:30.308 [main] StepDef - user launch browser 
+[INFO ] 2026-07-29 10:34:41.842 [main] StepDef - URL open
+[INFO ] 2026-07-29 10:34:43.669 [main] StepDef - enter email and password
+[INFO ] 2026-07-29 10:34:50.320 [main] StepDef - click on login
+[INFO ] 2026-07-29 10:34:50.389 [main] StepDef - home is opened
+[INFO ] 2026-07-29 10:35:03.004 [main] StepDef - search employee
+[INFO ] 2026-07-29 10:35:03.615 [main] StepDef - close the browser
+[INFO ] 2026-07-29 10:35:04.976 [main] StepDef - setup 1 executed
+[INFO ] 2026-07-29 10:35:04.979 [main] StepDef - user launch browser 
+[INFO ] 2026-07-29 10:35:15.867 [main] StepDef - URL open
+[INFO ] 2026-07-29 10:35:16.758 [main] StepDef - enter email and password
+[INFO ] 2026-07-29 10:35:18.949 [main] StepDef - click on login
+[INFO ] 2026-07-29 10:35:23.151 [main] StepDef - home is opened
+[INFO ] 2026-07-29 10:35:29.460 [main] StepDef - logout from page
+[INFO ] 2026-07-29 10:35:29.855 [main] StepDef - close the browser
